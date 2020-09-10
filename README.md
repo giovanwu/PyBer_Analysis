@@ -13,7 +13,7 @@ Lastly, Rural is the least profitable one out of the three city types with the l
 ![image](https://raw.githubusercontent.com/giovanwu/PyBer_Analysis/master/analysis/Challenge_fare_summary.png)
 When we look into the multiple-line chart that shows the weekly total fares by city type, we can see an even clearer comparison between the three city types that shows that urban cities generate significantly much more profit compared to suburban and rural cities.
 
-##Summary
+## Summary
 Based on the results, the following are three business recommendations to the CEO for addressing any disparities among the city types
 
 -provide more drivers available at rural areas at lower average fares per ride to entice customers to get rides
